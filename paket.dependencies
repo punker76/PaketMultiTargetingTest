@@ -1,0 +1,9 @@
+//framework: auto-detect
+framework: >= net40
+source https://nuget.org/api/v2
+
+nuget MSBuild.Sdk.Extras
+nuget JetBrains.Annotations
+nuget MahApps.Metro
+nuget MahApps.Metro.IconPacks
+nuget MaterialDesignThemes prerelease
