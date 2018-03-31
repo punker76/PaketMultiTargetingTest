@@ -1,5 +1,8 @@
+Costura.Fody content: once
 JetBrains.Annotations
 MahApps.Metro.IconPacks
 MahApps.Metro
+Caliburn.Micro
+	exclude System.Windows.Interactivity
 
 MaterialDesignThemes framework: >= net45

@@ -2,8 +2,10 @@
 framework: >= net40
 source https://nuget.org/api/v2
 
-nuget MSBuild.Sdk.Extras
+nuget MSBuild.Sdk.Extras 1.2.2
 nuget JetBrains.Annotations
 nuget MahApps.Metro
 nuget MahApps.Metro.IconPacks
 nuget MaterialDesignThemes prerelease
+nuget Caliburn.Micro
+nuget Costura.Fody
